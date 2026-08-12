@@ -1,3 +1,5 @@
+![Patterson Skills](docs/assets/banner.svg)
+
 > [!CAUTION]
 > **This marketplace is deprecated (2026-08-12).** `patterson-marketplace` (marketplace name
 > `patterson`) is now the canonical catalog, and `patterson-corp` hosts governed plugins. The
