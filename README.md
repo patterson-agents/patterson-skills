@@ -1,4 +1,4 @@
-![Patterson Skills](docs/assets/banner.svg)
+![Patterson Skills](docs/assets/banner.webp)
 
 > [!CAUTION]
 > **This marketplace is deprecated (2026-08-12).** `patterson-marketplace` (marketplace name
