@@ -1,3 +1,10 @@
+> [!CAUTION]
+> **This marketplace is deprecated (2026-08-12).** `patterson-marketplace` (marketplace name
+> `patterson`) is now the canonical catalog, and `patterson-corp` hosts governed plugins. The
+> `agentic-workflow-designer` skill from this repo now lives in `patterson-labs`'s
+> `patterson-workflows` plugin. Existing installs of `patterson-design@patterson-skills` keep
+> working, but no new content will land here.
+
 # patterson-skills
 
 Enterprise skills for Patterson Companies, published as a plugin marketplace.
